@@ -1,0 +1,7 @@
+<config>
+    <server>
+        <port>12345</port>
+        <maxClients>2</maxClients>
+        <welcomeMessage>Welcome to our server1</welcomeMessage> 
+    </server>
+</config>
